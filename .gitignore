@@ -23,3 +23,8 @@ coverage/
 # Ignore operating system files
 .DS_Store
 Thumbs.db
+
+# Ignore local environment files for Lab 2
+.env
+.env.*
+!.env.example
